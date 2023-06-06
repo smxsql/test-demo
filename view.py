@@ -5,3 +5,5 @@
 import os
 
 print(os.path.dirname())
+
+print('创建视图')
